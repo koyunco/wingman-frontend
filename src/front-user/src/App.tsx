@@ -14,17 +14,18 @@ function App() {
   return (
     <div>
       <Header></Header>
+      
+
       <Message></Message>
       <ContentFeature></ContentFeature>
       <Section1></Section1>
-      <Tile></Tile>
       <LogoCloud></LogoCloud>
+      <Tile></Tile>
+
       <Content></Content>
       <Price></Price>
       <CosmosCanvas></CosmosCanvas>
       <Footer></Footer>
-
-
 
     </div>
   )
